@@ -1,6 +1,6 @@
 Student Marks Management System (C)
 
-📌 Description
+ Description
 
 This project is a simple Student Marks Management System implemented in the C programming language. It uses structures and file handling to store and manage student records efficiently.
 
@@ -8,7 +8,7 @@ The program allows users to add student details, display all records, and genera
 
 ---
 
-🚀 Features
+Features
 
 - Add student record (Roll number, Name, Marks)
 - Store data using file handling ("students.dat")
@@ -18,7 +18,7 @@ The program allows users to add student details, display all records, and genera
 
 ---
 
-🛠️ Technologies Used
+Technologies Used
 
 - C Programming Language
 - Structures ("struct")
@@ -27,7 +27,7 @@ The program allows users to add student details, display all records, and genera
 
 ---
 
-▶️ How to Run
+How to Run
 
 1. Compile the program:
    
@@ -39,21 +39,21 @@ The program allows users to add student details, display all records, and genera
 
 ---
 
-📂 File Structure
+File Structure
 
 - "student.c" → Main source code
 - "students.dat" → File where student records are stored (created automatically)
 
 ---
 
-📊 Example Functionality
+Example Functionality
 
 - Enter student details with marks
 - View all stored records
 - Display ranked list of students based on total marks
 
 
-👨‍💻 Author
+Author
 
 Your Name
 Devu Krishna S 
