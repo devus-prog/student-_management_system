@@ -52,7 +52,6 @@ The program allows users to add student details, display all records, and genera
 - View all stored records
 - Display ranked list of students based on total marks
 
----
 
 👨‍💻 Author
 
